@@ -1,8 +1,5 @@
-Thank you for using our template!
+Welcome to my Portfolio profile! As an accomplished full-stack web developer, I bring with me a wealth of experience in utilizing cutting-edge technologies such as PHP, MYSQL, SQL, JAVASCRIPT, JQUERY, HTML, CSS, AJAX, XML and more. 
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Over the years, I have successfully worked on a diverse range of projects, spanning from small-scale websites to the development of robust e-commerce platforms. 
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+I take great pride in delivering high-quality solutions that align perfectly with my clients' needs and aspirations. Let's collaborate to turn your web development ideas into reality! CONTACT ME NOW TODAY https://www.fiverr.com/webzilar
